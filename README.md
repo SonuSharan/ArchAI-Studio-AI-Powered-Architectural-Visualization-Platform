@@ -1,0 +1,2 @@
+# ArchAI-Studio-AI-Powered-Architectural-Visualization-Platform
+ArchAI Studio is an AI-powered SaaS platform that converts 2D floor plans into photorealistic 3D architectural renders using modern AI models like Claude and Gemini. Built with React, TypeScript, and Puter.js, it features serverless processing, high-performance storage, permanent render hosting, &amp; a global community feed for architects &amp; designers.
